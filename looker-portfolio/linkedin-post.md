@@ -1,21 +1,19 @@
 # LinkedIn post draft
 
-I’m sharing a starter Looker portfolio built around a retail sales data model. It shows how business questions can connect to dashboards and the LookML behind them.
+Sharing three dashboard mockups from my retail analytics Looker portfolio. Each image previews a different business question, and each labeled link below opens the matching LookML dashboard file in GitHub.
 
-The project includes three LookML dashboard examples:
+🛍 Ecommerce overview — revenue, orders, and average order value
+https://github.com/Deepika275/RETAIL_SALES_ANALYSIS/blob/main/looker-portfolio/lookml/ecommerce.dashboard.lookml
 
-• Ecommerce overview — revenue, order count, and average order value
-• Sales performance — sales and profit by category and region
-• Customer retention — customer signups and sales by segment
+📊 Sales performance — sales and profit by category and region
+https://github.com/Deepika275/RETAIL_SALES_ANALYSIS/blob/main/looker-portfolio/lookml/sales.dashboard.lookml
 
-Each dashboard is paired with version-controlled LookML models and views, so the metric definitions are easy to inspect and adapt.
+👥 Customer retention — signups, segments, and customer mix
+https://github.com/Deepika275/RETAIL_SALES_ANALYSIS/blob/main/looker-portfolio/lookml/customers.dashboard.lookml
 
 Project source: https://github.com/Deepika275/RETAIL_SALES_ANALYSIS/tree/main/looker-portfolio
-Ecommerce dashboard: https://github.com/Deepika275/RETAIL_SALES_ANALYSIS/blob/main/looker-portfolio/lookml/ecommerce.dashboard.lookml
-Sales dashboard: https://github.com/Deepika275/RETAIL_SALES_ANALYSIS/blob/main/looker-portfolio/lookml/sales.dashboard.lookml
-Customer dashboard: https://github.com/Deepika275/RETAIL_SALES_ANALYSIS/blob/main/looker-portfolio/lookml/customers.dashboard.lookml
 
-The included portfolio page is a visual sample; connect the project to a Looker instance and your warehouse to run live dashboards. Feedback is welcome.
+These are portfolio mockups with illustrative sample data. Live dashboards require a Looker instance and a warehouse connection. Feedback welcome.
 
-#Looker #LookML #BusinessIntelligence #DataAnalytics #AnalyticsEngineering
+#Looker #LookML #BusinessIntelligence #DataAnalytics
 
